@@ -2,6 +2,7 @@ package pro.sky.tyulkovspringhw25;
 
 import java.util.Objects;
 
+
 public class Employee {
 
     private String firstName;
